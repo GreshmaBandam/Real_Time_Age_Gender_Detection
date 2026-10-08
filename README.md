@@ -66,13 +66,14 @@ Age & Gender Prediction
 - **Matplotlib**
 - **UTKFace Dataset**
 
-```
+
 
 ## 📊 Dataset
 
 The model is trained using the **UTKFace dataset**, which contains facial images annotated with age and gender information.
 
 The age labels are converted into eight predefined age groups before training.
+
 
 
 ## 🎯 Applications
@@ -84,6 +85,7 @@ The system can be applied in areas such as:
 - Customer demographic analysis
 - Smart monitoring
 - Human-computer interaction
+  
 
 ## 🔮 Future Enhancements
 
